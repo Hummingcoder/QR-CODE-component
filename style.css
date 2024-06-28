@@ -30,16 +30,16 @@ section {
 article {
   text-align: center;
   background: hsl(0, 0%, 100%);
-  width: 360px;
+  width: 300px;
   border-radius: 16px;
   padding: 1em;
   box-shadow: 0 4px 20px hsl(220, 15%, 55%);
 }
 h1 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 p {
   color: hsl(220, 15%, 55%);
-  font-size: 1rem;
-  margin-top: 1em;
+  font-size: 15px;
+  margin-top: 0.8em;
 }
